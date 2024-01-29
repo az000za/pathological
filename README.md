@@ -14,7 +14,10 @@ a.8) Path needed to go from Character A to Character B.
 This will combine gis maps and non gis maps together
 so that the AI can be pathological.
 
+# Code Outline
+
 class Pathological {
+
     nodes = {};
     
     paths = [
