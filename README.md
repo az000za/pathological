@@ -1,17 +1,17 @@
 # pathological
 Go from State A to State B. And possibly maintain desired state.
 
-a) Examples of StateA to StateB. Same Type to Type
-a.1) Path needed to go from Position A to Position B. 
-a.2) Path needed to go from Graph A to Graph B
-a.3) Path needed to go from Stats A to Stats B
-a.4) Path needed to go from Number A to Number B.
-a.5) Path needed to go from String A to String B.
-a.6) Path needed to go from Character A to Character B.
-a.7) Path needed to go from LocationA to LocationB.
-a.8) Path needed to go from LanguageA to LanguageB.
-a.8) Path needed to go from MetricsA to MetricsB.
-a.9) Path needed to go from FormUnFilled to FormFilledOut
+a) Examples of StateA to StateB. Same Type to Type  <br>
+a.1) Path needed to go from Position A to Position B.  <br>
+a.2) Path needed to go from Graph A to Graph B <br>
+a.3) Path needed to go from Stats A to Stats B <br>
+a.4) Path needed to go from Number A to Number B. <br>
+a.5) Path needed to go from String A to String B. <br>
+a.6) Path needed to go from Character A to Character B.  <br>
+a.7) Path needed to go from LocationA to LocationB. <br>
+a.8) Path needed to go from LanguageA to LanguageB. <br>
+a.8) Path needed to go from MetricsA to MetricsB. <br>
+a.9) Path needed to go from FormUnFilled to FormFilledOut  <br>
 
 Q: What does Pathological mean to Me? <br>
 A: It means to go from point A to point B on the map. <br>
